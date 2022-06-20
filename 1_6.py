@@ -1,4 +1,4 @@
-dohod = int(input("Введите значение выручки: "))
+dohod = int(input("Введите значение выручки:  "))
 rashod = int(input("Введите значение издержек: "))
 if dohod >= rashod:
     rent = (dohod - rashod)/dohod

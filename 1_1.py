@@ -1,5 +1,5 @@
 name = input("Введите имя: ")
-surname = input("Введите фамилию: ")
+surname = input("Введите фамилию:  ")
 day = int(input("Введите число рождения: "))
 month = int(input("Введите месяц рождения: "))
 year = int(input("Введите год рождения: "))
